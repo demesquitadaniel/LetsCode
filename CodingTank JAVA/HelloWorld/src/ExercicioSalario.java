@@ -15,7 +15,7 @@ public class ExercicioSalario {
         int ferias = salario * 1.3;
         System.out.println("Em suas férias, você receberá R$ " + ferias);
         int salarioAnual = (salario * 13) + ferias;
-        System.out.println("Seu salário anual, com décimo-terceiro e férias, é de: " + salarioAnual);
+        System.out.println("Seu salário anual, com décimo-terceiro e férias, é de R$ " + salarioAnual);
         int descontoInss = salarioAnual * 0.3;
         System.out.println("Seu desconto de INSS é de R$ " + descontoInss);
         System.out.println("Portanto, você terá recebido, em todo o ano, a quantia líquida de R$ " + (salarioAnual - descontoInss));
