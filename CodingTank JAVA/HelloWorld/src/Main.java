@@ -4,9 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        public static void main(String[] args) {
             System.out.println("Hello world!");
-        }
 
 //        Gato brisa = new Gato("Brisa", "preto", "GRAND", 12, 4d);
 //        brisa.setGarra("garra pequena");
